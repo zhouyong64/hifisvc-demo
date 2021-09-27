@@ -32,7 +32,7 @@ Best system
 
 | Source sample from ADIZ (NUS-48E) | <audio src="ID_CL/src/ADIZ_18.wav" controls preload></audio> |
 | reference | result1 | result2 | 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | <audio src="ID_CL/ref/ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/res1/ADIZ_18_to_ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/res2/ADIZ_18_to_ADIZ_18.wav" controls preload></audio> |
 | <audio src="ID_CL/ref/JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/res1/ADIZ_18_to_JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/res2/ADIZ_18_to_JLEE_11.wav" controls preload></audio> |
 | <audio src="ID_CL/ref/JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/res1/ADIZ_18_to_JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/res2/ADIZ_18_to_JTAN_07.wav" controls preload></audio> |
@@ -51,6 +51,7 @@ Best system
 
 | Source sample from VKOW (NUS-48E) | <audio src="ID_CL/src/VKOW_20.wav" controls preload></audio> |
 | reference | result1 | result2 | 
+| :--- | :--- | :--- |
 | <audio src="ID_CL/ref/ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/res1/VKOW_20_to_ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/res2/VKOW_20_to_ADIZ_18.wav" controls preload></audio> |
 | <audio src="ID_CL/ref/JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/res1/VKOW_20_to_JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/res2/VKOW_20_to_JLEE_11.wav" controls preload></audio> |
 | <audio src="ID_CL/ref/JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/res1/VKOW_20_to_JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/res2/VKOW_20_to_JTAN_07.wav" controls preload></audio> |
