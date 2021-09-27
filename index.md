@@ -15,27 +15,27 @@ Best system
 | Reference sample | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> |
 | Source | result1 | result2 | 
 | :--- | :--- | :--- | :--- |
-| 1: <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res1/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res2/ADIZ_18.wav" controls preload></audio> |
-| 2: <audio src="CD_lj/src/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res1/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res2/JLEE_11.wav" controls preload></audio> |
-| <audio src="CD_lj/src/JTAN.wav" controls preload></audio> | <audio src="CD_lj/res1/JTAN.wav" controls preload></audio> | <audio src="CD_lj/res2/JTAN.wav" controls preload></audio> |
-| <audio src="CD_lj/src/KENN.wav" controls preload></audio> | <audio src="CD_lj/res1/KENN.wav" controls preload></audio> | <audio src="CD_lj/res2/KENN.wav" controls preload></audio> |
-| <audio src="CD_lj/src/MCUR_17.wav" controls preload></audio> | <audio src="CD_lj/res1/MCUR_17.wav" controls preload></audio> | <audio src="CD_lj/res2/MCUR_17.wav" controls preload></audio> |
-| <audio src="CD_lj/src/MPOL.wav" controls preload></audio> | <audio src="CD_lj/res1/MPOL.wav" controls preload></audio> | <audio src="CD_lj/res2/MPOL.wav" controls preload></audio> |
-| <audio src="CD_lj/src/MPUR.wav" controls preload></audio> | <audio src="CD_lj/res1/MPUR.wav" controls preload></audio> | <audio src="CD_lj/res2/MPUR.wav" controls preload></audio> |
-| <audio src="CD_lj/src/NJAT.wav" controls preload></audio> | <audio src="CD_lj/res1/NJAT.wav" controls preload></audio> | <audio src="CD_lj/res2/NJAT.wav" controls preload></audio> |
-| <audio src="CD_lj/src/PMAR.wav" controls preload></audio> | <audio src="CD_lj/res1/PMAR.wav" controls preload></audio> | <audio src="CD_lj/res2/PMAR.wav" controls preload></audio> |
-| <audio src="CD_lj/src/SAMF.wav" controls preload></audio> | <audio src="CD_lj/res1/SAMF.wav" controls preload></audio> | <audio src="CD_lj/res2/SAMF.wav" controls preload></audio> |
-| <audio src="CD_lj/src/VKOW.wav" controls preload></audio> | <audio src="CD_lj/res1/VKOW.wav" controls preload></audio> | <audio src="CD_lj/res2/VKOW.wav" controls preload></audio> |
-| <audio src="CD_lj/src/ZHIY.wav" controls preload></audio> | <audio src="CD_lj/res1/ZHIY.wav" controls preload></audio> | <audio src="CD_lj/res2/ZHIY.wav" controls preload></audio> |
+| 2: <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res1/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res2/ADIZ_18.wav" controls preload></audio> |
+| 3: <audio src="CD_lj/src/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res1/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res2/JLEE_11.wav" controls preload></audio> |
+| 4: <audio src="CD_lj/src/JTAN.wav" controls preload></audio> | <audio src="CD_lj/res1/JTAN.wav" controls preload></audio> | <audio src="CD_lj/res2/JTAN.wav" controls preload></audio> |
+| 5: <audio src="CD_lj/src/KENN.wav" controls preload></audio> | <audio src="CD_lj/res1/KENN.wav" controls preload></audio> | <audio src="CD_lj/res2/KENN.wav" controls preload></audio> |
+| 6: <audio src="CD_lj/src/MCUR_17.wav" controls preload></audio> | <audio src="CD_lj/res1/MCUR_17.wav" controls preload></audio> | <audio src="CD_lj/res2/MCUR_17.wav" controls preload></audio> |
+| 7: <audio src="CD_lj/src/MPOL.wav" controls preload></audio> | <audio src="CD_lj/res1/MPOL.wav" controls preload></audio> | <audio src="CD_lj/res2/MPOL.wav" controls preload></audio> |
+| 8: <audio src="CD_lj/src/MPUR.wav" controls preload></audio> | <audio src="CD_lj/res1/MPUR.wav" controls preload></audio> | <audio src="CD_lj/res2/MPUR.wav" controls preload></audio> |
+| 9: <audio src="CD_lj/src/NJAT.wav" controls preload></audio> | <audio src="CD_lj/res1/NJAT.wav" controls preload></audio> | <audio src="CD_lj/res2/NJAT.wav" controls preload></audio> |
+| 10: <audio src="CD_lj/src/PMAR.wav" controls preload></audio> | <audio src="CD_lj/res1/PMAR.wav" controls preload></audio> | <audio src="CD_lj/res2/PMAR.wav" controls preload></audio> |
+| 11: <audio src="CD_lj/src/SAMF.wav" controls preload></audio> | <audio src="CD_lj/res1/SAMF.wav" controls preload></audio> | <audio src="CD_lj/res2/SAMF.wav" controls preload></audio> |
+| 12: <audio src="CD_lj/src/VKOW.wav" controls preload></audio> | <audio src="CD_lj/res1/VKOW.wav" controls preload></audio> | <audio src="CD_lj/res2/VKOW.wav" controls preload></audio> |
+| 13: <audio src="CD_lj/src/ZHIY.wav" controls preload></audio> | <audio src="CD_lj/res1/ZHIY.wav" controls preload></audio> | <audio src="CD_lj/res2/ZHIY.wav" controls preload></audio> |
 | --- | --- | --- |
 
 ## Any-to-Many Cross-domain (A2M-CD) singing voice conversion
 
 | Source | References (VCTK) | result1 | result2 |
 | :--- | :--- | :--- | :--- |
-| <audio src="CD_vctk/src/ADIZ_18_to_p258.wav" controls preload></audio> | <audio src="CD_vctk/ref/p258_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/ADIZ_18_to_p258_to_p258_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/ADIZ_18_to_p258_to_p258_ref.wav" controls preload></audio> |
+| 14: <audio src="CD_vctk/src/ADIZ_18_to_p258.wav" controls preload></audio> | <audio src="CD_vctk/ref/p258_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/ADIZ_18_to_p258_to_p258_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/ADIZ_18_to_p258_to_p258_ref.wav" controls preload></audio> |
 | --- | --- | --- | --- |
-| <audio src="CD_vctk/src/JLEE_15_to_p304.wav" controls preload></audio> | <audio src="CD_vctk/ref/p304_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/JLEE_15_to_p304_to_p304_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/JLEE_15_to_p304_to_p304_ref.wav" controls preload></audio> |
+| 15: <audio src="CD_vctk/src/JLEE_15_to_p304.wav" controls preload></audio> | <audio src="CD_vctk/ref/p304_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/JLEE_15_to_p304_to_p304_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/JLEE_15_to_p304_to_p304_ref.wav" controls preload></audio> |
 | --- | --- | --- | --- |
 | <audio src="CD_vctk/src/JTAN_16_to_p282.wav" controls preload></audio> | <audio src="CD_vctk/ref/p282_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/JTAN_16_to_p282_to_p282_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/JTAN_16_to_p282_to_p282_ref.wav" controls preload></audio> |
 | --- | --- | --- | --- |
