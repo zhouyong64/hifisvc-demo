@@ -15,8 +15,8 @@ Best system
 | Reference sample | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> |
 | Source | result1 | result2 | 
 | :--- | :--- | :--- | :--- |
-| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res1/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res2/ADIZ_18.wav" controls preload></audio> |
-| <audio src="CD_lj/src/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res1/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res2/JLEE_11.wav" controls preload></audio> |
+| 1: <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res1/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res2/ADIZ_18.wav" controls preload></audio> |
+| 2: <audio src="CD_lj/src/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res1/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res2/JLEE_11.wav" controls preload></audio> |
 | <audio src="CD_lj/src/JTAN.wav" controls preload></audio> | <audio src="CD_lj/res1/JTAN.wav" controls preload></audio> | <audio src="CD_lj/res2/JTAN.wav" controls preload></audio> |
 | <audio src="CD_lj/src/KENN.wav" controls preload></audio> | <audio src="CD_lj/res1/KENN.wav" controls preload></audio> | <audio src="CD_lj/res2/KENN.wav" controls preload></audio> |
 | <audio src="CD_lj/src/MCUR_17.wav" controls preload></audio> | <audio src="CD_lj/res1/MCUR_17.wav" controls preload></audio> | <audio src="CD_lj/res2/MCUR_17.wav" controls preload></audio> |
