@@ -27,6 +27,35 @@ Best system
 | <audio src="CD_lj/src/ZHIY.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/res1/ZHIY.wav" controls preload></audio> | <audio src="CD_lj/res2/ZHIY.wav" controls preload></audio> |
 | --- | --- | --- | --- |
 
+## Any-to-Many Cross-domain (A2M-CD) singing voice conversion
+
+| Source | References (VCTK) | result1 | result2 |
+| :--- | :--- | :--- | :--- |
+| <audio src="CD_vctk/src/ADIZ_18_to_p258.wav" controls preload></audio> | <audio src="CD_vctk/ref/p258_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/ADIZ_18_to_p258_to_p258_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/ADIZ_18_to_p258_to_p258_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/JLEE_15_to_p304.wav" controls preload></audio> | <audio src="CD_vctk/ref/p304_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/JLEE_15_to_p304_to_p304_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/JLEE_15_to_p304_to_p304_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/JTAN_16_to_p282.wav" controls preload></audio> | <audio src="CD_vctk/ref/p282_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/JTAN_16_to_p282_to_p282_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/JTAN_16_to_p282_to_p282_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/KENN_04_to_p248.wav" controls preload></audio> | <audio src="CD_vctk/ref/p248_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/KENN_04_to_p248_to_p248_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/KENN_04_to_p248_to_p248_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/MCUR_17_to_p233.wav" controls preload></audio> | <audio src="CD_vctk/ref/p233_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/MCUR_17_to_p233_to_p233_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/MCUR_17_to_p233_to_p233_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/MPOL_11_to_p256.wav" controls preload></audio> | <audio src="CD_vctk/ref/p256_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/MPOL_11_to_p256_to_p256_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/MPOL_11_to_p256_to_p256_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/MPUR_03_to_p248.wav" controls preload></audio> | <audio src="CD_vctk/ref/p248_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/MPUR_03_to_p248_to_p248_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/MPUR_03_to_p248_to_p248_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/NJAT_07_to_p243.wav" controls preload></audio> | <audio src="CD_vctk/ref/p243_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/NJAT_07_to_p243_to_p243_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/NJAT_07_to_p243_to_p243_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/PMAR_11_to_p311.wav" controls preload></audio> | <audio src="CD_vctk/ref/p311_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/PMAR_11_to_p311_to_p311_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/PMAR_11_to_p311_to_p311_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/SAMF_18_to_p335.wav" controls preload></audio> | <audio src="CD_vctk/ref/p335_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/SAMF_18_to_p335_to_p335_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/SAMF_18_to_p335_to_p335_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/VKOW_19_to_p259.wav" controls preload></audio> | <audio src="CD_vctk/ref/p259_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/VKOW_19_to_p259_to_p259_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/VKOW_19_to_p259_to_p259_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+| <audio src="CD_vctk/src/ZHIY_06_to_p307.wav" controls preload></audio> | <audio src="CD_vctk/ref/p307_ref.wav" controls preload></audio> | <audio src="CD_vctk/res1/ZHIY_06_to_p307_to_p307_ref.wav" controls preload></audio> | <audio src="CD_vctk/res2/ZHIY_06_to_p307_to_p307_ref.wav" controls preload></audio> |
+| --- | --- | --- | --- |
+
 ## Any-to-Many In-domain (A2M-ID) singing voice conversion
 ### Female source singer
 
