@@ -85,3 +85,22 @@ Best system
 | <audio src="ID_CL/ref/VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/res1/JL95_to_VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/res2/JL95_to_VKOW_11.wav" controls preload></audio> |
 | <audio src="ID_CL/ref/ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/res1/JL95_to_ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/res2/JL95_to_ZHIY_03.wav" controls preload></audio> |
 | --- | --- | --- |
+
+### Male source singer
+
+| Chinese Source sample | <audio src="ID_CL/src/JL94.wav" controls preload></audio> |
+| reference | result1 | result2 |
+| :--- | :--- | :--- |
+| <audio src="ID_CL/ref/ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_ADIZ_18.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_JLEE_11.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_JTAN_07.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/KENN_10.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_KENN_10.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_KENN_10.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_MCUR_17.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_MPOL_20.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_MPUR_02.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_NJAT_16.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/PAMR_15.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_PAMR_15.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_PMAR_15.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_SAMF_13.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_VKOW_11.wav" controls preload></audio> |
+| <audio src="ID_CL/ref/ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_ZHIY_03.wav" controls preload></audio> |
+| --- | --- | --- |
