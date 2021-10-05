@@ -11,21 +11,9 @@ Best system
 
 ## Effects of Using Pitch Adjustment
 
-| Reference sample | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ010-0295.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ031-0224.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ028-0335.wav" controls preload></audio> |
 | Source | result1 | result2 |
 | :--- | :--- | :--- | :--- |
-| 2: <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res1/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res2/ADIZ_18.wav" controls preload></audio> |
-| 3: <audio src="CD_lj/src/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res1/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/res2/JLEE_11.wav" controls preload></audio> |
-| 4: <audio src="CD_lj/src/JTAN.wav" controls preload></audio> | <audio src="CD_lj/res1/JTAN.wav" controls preload></audio> | <audio src="CD_lj/res2/JTAN.wav" controls preload></audio> |
-| 5: <audio src="CD_lj/src/KENN.wav" controls preload></audio> | <audio src="CD_lj/res1/KENN.wav" controls preload></audio> | <audio src="CD_lj/res2/KENN.wav" controls preload></audio> |
-| 6: <audio src="CD_lj/src/MCUR_17.wav" controls preload></audio> | <audio src="CD_lj/res1/MCUR_17.wav" controls preload></audio> | <audio src="CD_lj/res2/MCUR_17.wav" controls preload></audio> |
-| 7: <audio src="CD_lj/src/MPOL.wav" controls preload></audio> | <audio src="CD_lj/res1/MPOL.wav" controls preload></audio> | <audio src="CD_lj/res2/MPOL.wav" controls preload></audio> |
-| 8: <audio src="CD_lj/src/MPUR.wav" controls preload></audio> | <audio src="CD_lj/res1/MPUR.wav" controls preload></audio> | <audio src="CD_lj/res2/MPUR.wav" controls preload></audio> |
-| 9: <audio src="CD_lj/src/NJAT.wav" controls preload></audio> | <audio src="CD_lj/res1/NJAT.wav" controls preload></audio> | <audio src="CD_lj/res2/NJAT.wav" controls preload></audio> |
-| 10: <audio src="CD_lj/src/PMAR.wav" controls preload></audio> | <audio src="CD_lj/res1/PMAR.wav" controls preload></audio> | <audio src="CD_lj/res2/PMAR.wav" controls preload></audio> |
-| 11: <audio src="CD_lj/src/SAMF.wav" controls preload></audio> | <audio src="CD_lj/res1/SAMF.wav" controls preload></audio> | <audio src="CD_lj/res2/SAMF.wav" controls preload></audio> |
-| 12: <audio src="CD_lj/src/VKOW.wav" controls preload></audio> | <audio src="CD_lj/res1/VKOW.wav" controls preload></audio> | <audio src="CD_lj/res2/VKOW.wav" controls preload></audio> |
-| 13: <audio src="CD_lj/src/ZHIY.wav" controls preload></audio> | <audio src="CD_lj/res1/ZHIY.wav" controls preload></audio> | <audio src="CD_lj/res2/ZHIY.wav" controls preload></audio> |
+| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> |
 | --- | --- | --- |
 
 ## Any-to-One Cross-domain (A2O-CD) singing voice conversion
