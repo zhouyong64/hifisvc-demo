@@ -11,7 +11,8 @@ Best system
 
 ## Effects of Using Pitch Adjustment
 
-| Source | result1 | result2 |
+| Reference sample | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> |
+| Source | w/o Pitch Adjustment | w/ Pitch Adjustment |
 | :--- | :--- | :--- | :--- |
 | <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> |
 | --- | --- | --- |
