@@ -10,16 +10,16 @@ This is my abstract
 Best system
 
 ## Effects of Using Pitch Adjustment
-| Reference sample | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> |
-| Source | w/o Pitch Adjustment | w/ Pitch Adjustment |
-| :--- | :--- | :--- |
-| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> |
+| Reference sample | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ010-0295.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ031-0224.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ028-0335.wav" controls preload></audio> |
+| Source | result1 | result2 |
+| :--- | :--- | :--- | :--- |
+| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res1/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res2/ADIZ_18.wav" controls preload></audio> |
 | --- | --- | --- |
 
 ## Any-to-One Cross-domain (A2O-CD) singing voice conversion
 ### Target speech reference samples from LJ-Speech.
 
-| Reference sample | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ010-0295.wav" controls preload></audio> | <audio src="LJ031-0224.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ028-0335.wav" controls preload></audio> |
+| Reference sample | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ010-0295.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ031-0224.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ028-0335.wav" controls preload></audio> |
 | Source | result1 | result2 | 
 | :--- | :--- | :--- | :--- |
 | 2: <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res1/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/res2/ADIZ_18.wav" controls preload></audio> |
