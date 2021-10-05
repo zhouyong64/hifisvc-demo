@@ -15,6 +15,9 @@ Best system
 | Source | w/o Pitch Adjustment | w/ Pitch Adjustment |
 | :--- | :--- | :--- | :--- |
 | <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> |
+| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/MCUR_17_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/MCUR_17_to_LJ002-0271.wav" controls preload></audio> |
+| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/MPOL_20_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/MPOL_20_to_LJ002-0271.wav" controls preload></audio> |
+| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/NJAT_16_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/NJAT_16_to_LJ002-0271.wav" controls preload></audio> |
 | --- | --- | --- |
 
 ## Any-to-One Cross-domain (A2O-CD) singing voice conversion
