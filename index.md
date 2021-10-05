@@ -1,10 +1,10 @@
-# <center> My Official Demo Page</center>
+# <center> Audio Demos for "HiFi-SVC: Fast High Fidelity Cross-Domain Singing Voice Conversion" </center>
 
 <center> Authors </center>  
 
 
 ## Abstract
-This is my abstract
+This paper presents HiFi-SVC, a small cross-domain singing voice conversion model for generating high fidelity 22.05 kHz singing voices.
 
 ## Brief introduction
 Best system
