@@ -15,9 +15,9 @@ Best system
 | Source | w/o Pitch Adjustment | w/ Pitch Adjustment |
 | :--- | :--- | :--- | :--- |
 | <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> |
-| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/MCUR_17_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/MCUR_17_to_LJ002-0271.wav" controls preload></audio> |
-| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/MPOL_20_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/MPOL_20_to_LJ002-0271.wav" controls preload></audio> |
-| <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/NJAT_16_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/NJAT_16_to_LJ002-0271.wav" controls preload></audio> |
+| <audio src="CD_lj/src/MCUR_17.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/MCUR_17_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/MCUR_17_to_LJ002-0271.wav" controls preload></audio> |
+| <audio src="CD_lj/src/MPOL.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/MPOL_20_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/MPOL_20_to_LJ002-0271.wav" controls preload></audio> |
+| <audio src="CD_lj/src/NJAT.wav" controls preload></audio> | <audio src="pitch_adjust_samples/without/NJAT_16_to_LJ002-0271.wav" controls preload></audio> | <audio src="pitch_adjust_samples/with/NJAT_16_to_LJ002-0271.wav" controls preload></audio> |
 | --- | --- | --- |
 
 ## Any-to-One Cross-domain (A2O-CD) singing voice conversion
@@ -147,98 +147,3 @@ Best system
 | 73: <audio src="ID_CL/ref/ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/res1/JL94_to_ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/res2/JL94_to_ZHIY_03.wav" controls preload></audio> |
 | --- | --- | --- |
 
-### HiFi-SVC vs HiFi-SVC-Mel
-
-| source | reference | result1 | result2 | 
-| :--- | :--- | :--- | :--- |
-| 74: <audio src="CD_lj/src/ADIZ_18.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/ADIZ_18_to_LJ002-0271.wav" controls preload></audio> |
-| 75: <audio src="CD_lj/src/JLEE_11.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/JLEE_11_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/JLEE_11_to_LJ002-0271.wav" controls preload></audio> |
-| 76: <audio src="CD_lj/src/JTAN.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/JTAN_07_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/JTAN_07_to_LJ002-0271.wav" controls preload></audio> |
-| 77: <audio src="CD_lj/src/KENN.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/KENN_10_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/KENN_10_to_LJ002-0271.wav" controls preload></audio> |
-| 78: <audio src="CD_lj/src/MCUR_17.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/MCUR_17_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/MCUR_17_to_LJ002-0271.wav" controls preload></audio> |
-| 79: <audio src="CD_lj/src/MPOL.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/MPOL_20_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/MPOL_20_to_LJ002-0271.wav" controls preload></audio> |
-| 80: <audio src="CD_lj/src/MPUR.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/MPUR_02_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/MPUR_02_to_LJ002-0271.wav" controls preload></audio> |
-| 81: <audio src="CD_lj/src/NJAT.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/NJAT_16_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/NJAT_16_to_LJ002-0271.wav" controls preload></audio> |
-| 82: <audio src="CD_lj/src/PMAR.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/PMAR_15_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/PMAR_15_to_LJ002-0271.wav" controls preload></audio> |
-| 83: <audio src="CD_lj/src/SAMF.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/SAMF_13_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/SAMF_13_to_LJ002-0271.wav" controls preload></audio> |
-| 84: <audio src="CD_lj/src/VKOW.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/VKOW_11_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/VKOW_11_to_LJ002-0271.wav" controls preload></audio> |
-| 85: <audio src="CD_lj/src/ZHIY.wav" controls preload></audio> | <audio src="CD_lj/ref/LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/end2end/ZHIY_03_to_LJ002-0271.wav" controls preload></audio> | <audio src="CD_lj/mel/ZHIY_03_to_LJ002-0271.wav" controls preload></audio> |
-| --- | --- | --- | --- |
-
-## mel vs end Any-to-Many In-domain (A2M-ID) singing voice conversion
-### Female source singer
-
-| Source sample from ADIZ (NUS-48E) | <audio src="ID_CL/src/ADIZ_18.wav" controls preload></audio> |
-| reference | result1 | result2 |
-| :--- | :--- | :--- |
-| 86: <audio src="ID_CL/ref/ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_ADIZ_18.wav" controls preload></audio> |
-| 87: <audio src="ID_CL/ref/JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_JLEE_11.wav" controls preload></audio> |
-| 88: <audio src="ID_CL/ref/JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_JTAN_07.wav" controls preload></audio> |
-| 89: <audio src="ID_CL/ref/KENN_10.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_KENN_10.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_KENN_10.wav" controls preload></audio> |
-| 90: <audio src="ID_CL/ref/MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_MCUR_17.wav" controls preload></audio> |
-| 91: <audio src="ID_CL/ref/MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_MPOL_20.wav" controls preload></audio> |
-| 92: <audio src="ID_CL/ref/MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_MPUR_02.wav" controls preload></audio> |
-| 93: <audio src="ID_CL/ref/NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_NJAT_16.wav" controls preload></audio> |
-| 94: <audio src="ID_CL/ref/PAMR_15.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_PMAR_15.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_PAMR_15.wav" controls preload></audio> |
-| 95: <audio src="ID_CL/ref/SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_SAMF_13.wav" controls preload></audio> |
-| 96: <audio src="ID_CL/ref/VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_VKOW_11.wav" controls preload></audio> |
-| 97: <audio src="ID_CL/ref/ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/end2end/ADIZ_18_to_ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/mel/ADIZ_18_to_ZHIY_03.wav" controls preload></audio> |
-| --- | --- | --- |
-
-### Male source singer
-
-| Source sample from VKOW (NUS-48E) | <audio src="ID_CL/src/VKOW_20.wav" controls preload></audio> |
-| reference | result1 | result2 |
-| :--- | :--- | :--- |
-| 98: <audio src="ID_CL/ref/ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_ADIZ_18.wav" controls preload></audio> |
-| 99: <audio src="ID_CL/ref/JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_JLEE_11.wav" controls preload></audio> |
-| 100: <audio src="ID_CL/ref/JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_JTAN_07.wav" controls preload></audio> |
-| 101: <audio src="ID_CL/ref/KENN_10.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_KENN_10.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_KENN_10.wav" controls preload></audio> |
-| 102: <audio src="ID_CL/ref/MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_MCUR_17.wav" controls preload></audio> |
-| 103: <audio src="ID_CL/ref/MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_MPOL_20.wav" controls preload></audio> |
-| 104: <audio src="ID_CL/ref/MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_MPUR_02.wav" controls preload></audio> |
-| 105: <audio src="ID_CL/ref/NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_NJAT_16.wav" controls preload></audio> |
-| 106: <audio src="ID_CL/ref/PAMR_15.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_PMAR_15.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_PAMR_15.wav" controls preload></audio> |
-| 107: <audio src="ID_CL/ref/SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_SAMF_13.wav" controls preload></audio> |
-| 108: <audio src="ID_CL/ref/VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_VKOW_11.wav" controls preload></audio> |
-| 109: <audio src="ID_CL/ref/ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/end2end/VKOW_20_to_ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/mel/VKOW_20_to_ZHIY_03.wav" controls preload></audio> |
-| --- | --- | --- |
-
-## Cross-lingual (CL) singing voice conversion
-### Female source singer
-
-| Chinese Source sample | <audio src="ID_CL/src/JL95.wav" controls preload></audio> |
-| reference | result1 | result2 |
-| :--- | :--- | :--- |
-| 110: <audio src="ID_CL/ref/ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_ADIZ_18.wav" controls preload></audio> |
-| 111: <audio src="ID_CL/ref/JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_JLEE_11.wav" controls preload></audio> |
-| 112: <audio src="ID_CL/ref/JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_JTAN_07.wav" controls preload></audio> |
-| 113: <audio src="ID_CL/ref/KENN_10.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_KENN_10.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_KENN_10.wav" controls preload></audio> |
-| 114: <audio src="ID_CL/ref/MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_MCUR_17.wav" controls preload></audio> |
-| 115: <audio src="ID_CL/ref/MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_MPOL_20.wav" controls preload></audio> |
-| 116: <audio src="ID_CL/ref/MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_MPUR_02.wav" controls preload></audio> |
-| 117: <audio src="ID_CL/ref/NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_NJAT_16.wav" controls preload></audio> |
-| 118: <audio src="ID_CL/ref/PAMR_15.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_PMAR_15.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_PAMR_15.wav" controls preload></audio> |
-| 119: <audio src="ID_CL/ref/SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_SAMF_13.wav" controls preload></audio> |
-| 120: <audio src="ID_CL/ref/VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_VKOW_11.wav" controls preload></audio> |
-| 121: <audio src="ID_CL/ref/ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL95_to_ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/mel/JL95_to_ZHIY_03.wav" controls preload></audio> |
-| --- | --- | --- |
-
-### Male source singer
-
-| Chinese Source sample | <audio src="ID_CL/src/JL94.wav" controls preload></audio> |
-| reference | result1 | result2 |
-| :--- | :--- | :--- |
-| 122: <audio src="ID_CL/ref/ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_ADIZ_18.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_ADIZ_18.wav" controls preload></audio> |
-| 123: <audio src="ID_CL/ref/JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_JLEE_11.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_JLEE_11.wav" controls preload></audio> |
-| 124: <audio src="ID_CL/ref/JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_JTAN_07.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_JTAN_07.wav" controls preload></audio> |
-| 125: <audio src="ID_CL/ref/KENN_10.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_KENN_10.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_KENN_10.wav" controls preload></audio> |
-| 126: <audio src="ID_CL/ref/MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_MCUR_17.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_MCUR_17.wav" controls preload></audio> |
-| 127: <audio src="ID_CL/ref/MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_MPOL_20.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_MPOL_20.wav" controls preload></audio> |
-| 128: <audio src="ID_CL/ref/MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_MPUR_02.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_MPUR_02.wav" controls preload></audio> |
-| 129: <audio src="ID_CL/ref/NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_NJAT_16.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_NJAT_16.wav" controls preload></audio> |
-| 130: <audio src="ID_CL/ref/PAMR_15.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_PMAR_15.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_PAMR_15.wav" controls preload></audio> |
-| 131: <audio src="ID_CL/ref/SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_SAMF_13.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_SAMF_13.wav" controls preload></audio> |
-| 132: <audio src="ID_CL/ref/VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_VKOW_11.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_VKOW_11.wav" controls preload></audio> |
-| 133: <audio src="ID_CL/ref/ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/end2end/JL94_to_ZHIY_03.wav" controls preload></audio> | <audio src="ID_CL/mel/JL94_to_ZHIY_03.wav" controls preload></audio> |
-| --- | --- | --- |
